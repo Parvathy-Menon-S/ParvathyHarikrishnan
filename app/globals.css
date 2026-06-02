@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* Font variable aliases — allow descriptive names alongside the short ones */
+:root {
+  --font-eb-garamond: var(--font-garamond);
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* Respect reduced motion at the OS level */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

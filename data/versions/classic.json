@@ -1,0 +1,63 @@
+{
+  "id": "classic",
+  "title": "Classic Romantic",
+  "theme": {
+    "primaryColor": "#4a3728",
+    "textColor": "#550000",
+    "accentColor": "#c9a84c",
+    "fontHeading": "var(--font-playfair), Georgia, serif",
+    "fontBody": "var(--font-garamond), Georgia, serif",
+    "overlay": "none"
+  },
+  "background": {
+    "desktop": "/backgrounds/classic_desktop.png",
+    "desktopFit": "contain",
+    "desktopPosition": "center",
+    "backgroundColor": "#fae8c7",
+    "mobile": "/backgrounds/classic_mobile.png",
+    "mobileFit": "cover",
+    "mobilePosition": "center"
+  },
+  "stages": [
+    {
+      "heading": "Our Wedding",
+      "subheading": "Together with our families, we invite you to share in our joy",
+      "animationPreset": "blur-to-clear",
+      "timing": { "duration": 1.2, "delay": 0 }
+    },
+    {
+      "heading": "Parvathy & Harikrishnan",
+      "subheading": "are getting married",
+      "animationPreset": "fade-up",
+      "timing": { "duration": 1.0, "delay": 0 }
+    },
+    {
+      "heading": "Dakshina",
+      "subheading": "With Blessing",
+      "meta": ["Saturday, July o4, 2026", "10:00 AM"],
+      "animationPreset": "fade",
+      "timing": { "duration": 0.9, "delay": 0 }
+    },
+    {
+      "heading": "The Auspicious Muhurtham",
+      "subheading": "Sunday, July o5, 2026, 10 AM",
+      "meta": ["Royal Convention Centre, Pattambi, Palakkad", ""],
+      "animationPreset": "fade-up",
+      "timing": { "duration": 0.9, "delay": 0 }
+    },
+    {
+      "heading": "The Reception",
+      "subheading": "Monday, July o6, 2026, 4 PM",
+      "meta": ["Thevarcad Convention Centre, Vadakkenchery, Palakkad", ""],
+      "animationPreset": "fade-up",
+      "timing": { "duration": 0.9, "delay": 0 }
+    },
+    {
+      "heading": "Thank you for being part",
+      "subheading": "With Love",
+      "meta": ["Parvathy, Harikrishnan & our Families"],
+      "animationPreset": "fade-up",
+      "timing": { "duration": 1.1, "delay": 0 }
+    }
+  ]
+}

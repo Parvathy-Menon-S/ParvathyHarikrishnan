@@ -1,0 +1,61 @@
+{
+  "id": "minimal",
+  "title": "Modern Minimal",
+  "theme": {
+    "primaryColor": "#1a1a1a",
+    "textColor": "#0047AB",
+    "accentColor": "#d4d4d4",
+    "fontHeading": "var(--font-pinyon-script), cursive",
+    "fontBody": "var(--font-eb-garamond), 'Times New Roman', serif",
+    "overlay": "none"
+  },
+  "background": {
+    "desktop": [
+      "/backgrounds/minimal_desktop.png",
+      "/backgrounds/minimal_desktop.png",
+      "/backgrounds/minimal_desktop.png",
+      "/backgrounds/minimal_desktop.png",
+      "/backgrounds/minimal-finale.png"
+    ],
+    "desktopFit": "contain",
+    "desktopPosition": "center",
+    "backgroundColor": "#fcfaf5"
+  },
+  
+  "stages": [
+    {
+      "heading": "The Beginning of Forever",
+      "headingSize": "4rem",
+      "subheading": "You are warmly invited for our wedding",
+      "animationPreset": "blur-to-clear",
+      "timing": { "duration": 1.2, "delay": 0 }
+    },
+    {
+      "heading": "Parvathy & Harikrishnan",
+      "headingSize": "4rem",
+      "subheading": "are getting married",
+      "animationPreset": "fade-up",
+      "timing": { "duration": 1.0, "delay": 0 }
+    },
+    {
+      "heading": "The Wedding",
+      "headingSize": "4rem",
+      "subheading": "Sunday, July o5, 2026, 10 AM",
+      "meta": ["Royal Convention Centre, Pattambi, Palakkad", ""],
+      "animationPreset": "fade-up",
+      "timing": { "duration": 0.9, "delay": 0 }
+    },
+    {
+      "heading": "Thank you for being part",
+            "headingSize": "3rem",
+      "subheading": "With Love",
+      "meta": ["Parvathy, Harikrishnan & our Families"],
+      "animationPreset": "fade-up",
+      "timing": { "duration": 1.1, "delay": 0 }
+    },{
+      "overlay": "none",
+      "animationPreset": "fade",
+      "timing": { "duration": 1.4, "delay": 0 }
+    }
+  ]
+}

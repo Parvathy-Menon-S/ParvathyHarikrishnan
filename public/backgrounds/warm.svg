@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="rg1" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#4a1e10"/>
+      <stop offset="100%" stop-color="#1a0a05"/>
+    </radialGradient>
+    <radialGradient id="rg2" cx="15%" cy="15%" r="45%">
+      <stop offset="0%" stop-color="#7a3520" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1a0a05" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rg3" cx="85%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#6b2d18" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#1a0a05" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rg4" cx="50%" cy="50%" r="30%">
+      <stop offset="0%" stop-color="#b04a28" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#4a1e10" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#rg1)"/>
+  <rect width="1200" height="800" fill="url(#rg2)"/>
+  <rect width="1200" height="800" fill="url(#rg3)"/>
+  <rect width="1200" height="800" fill="url(#rg4)"/>
+  <!-- Subtle botanical vine top-right -->
+  <g opacity="0.08" fill="none" stroke="#d4956a" stroke-width="1">
+    <path d="M 1100 0 Q 1150 80 1080 150 Q 1020 220 1100 280"/>
+    <path d="M 1100 0 Q 1060 60 1120 110"/>
+    <path d="M 1080 150 Q 1040 170 1010 140"/>
+    <path d="M 1100 280 Q 1140 310 1120 360"/>
+  </g>
+  <!-- Subtle botanical vine bottom-left -->
+  <g opacity="0.08" fill="none" stroke="#d4956a" stroke-width="1">
+    <path d="M 100 800 Q 50 720 120 650 Q 180 580 100 520"/>
+    <path d="M 100 800 Q 140 740 80 690"/>
+    <path d="M 120 650 Q 160 630 190 660"/>
+    <path d="M 100 520 Q 60 490 80 440"/>
+  </g>
+</svg>
