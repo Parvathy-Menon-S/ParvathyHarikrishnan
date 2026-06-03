@@ -5,7 +5,7 @@
     "primaryColor": "#6b3d2e",
     "textColor": "#A8843B",
     "accentColor": "#d4956a",
-    "fontHeading": "var(--font-pinyon-script), cursive",
+    "fontHeading": "var(--font-alex-brush), cursive",
     "fontBody": "var(--font-eb-garamond), 'Times New Roman', serif",
     "overlay": "none"
   },
