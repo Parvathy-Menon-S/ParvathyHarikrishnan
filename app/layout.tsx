@@ -6,6 +6,7 @@ import {
   Cormorant_Garamond,
   Lato,
   Pinyon_Script,
+  Alex_Brush,
 } from 'next/font/google';
 import './globals.css';
 
@@ -51,6 +52,13 @@ const pinyonScript = Pinyon_Script({
   display: 'swap',
 });
 
+const alexBrush = Alex_Brush({
+  subsets: ['latin'],
+  variable: '--font-alex-brush',
+  weight: ['400'],
+  display: 'swap',
+});
+
 export const metadata: Metadata = {
   title: 'You Are Invited',
   description: 'A wedding invitation',
@@ -75,6 +83,7 @@ export default function RootLayout({
         cormorant.variable,
         lato.variable,
         pinyonScript.variable,
+        alexBrush.variable,
       ].join(' ')}
     >
       <body className="h-full antialiased">{children}</body>
