@@ -70,20 +70,20 @@
     {
       "heading": "Dakshina",
       "subheading": "With Blessing",
-      "meta": ["Saturday, July o4, 2026", "10:00 AM"],
+      "meta": ["Saturday, July 04, 2026", "10:00 AM"],
       "animationPreset": "fade",
       "timing": { "duration": 0.9, "delay": 0 }
     },
     {
       "heading": "The Auspicious Muhurtham",
-      "subheading": "Sunday, July o5, 2026, 10 AM - 10:45 AM",
+      "subheading": "Sunday, July 05, 2026, 10 AM - 10:45 AM",
       "meta": ["Royal Convention Centre, Pattambi, Palakkad", ""],
       "animationPreset": "fade-up",
       "timing": { "duration": 0.9, "delay": 0 }
     },
     {
       "heading": "The Reception",
-      "subheading": "Monday, July o6, 2026, 5 PM - 9 PM",
+      "subheading": "Monday, July 06, 2026, 5 PM - 9 PM",
       "meta": ["Thevarcad Convention Centre, Vadakkenchery, Palakkad", ""],
       "animationPreset": "fade-up",
       "timing": { "duration": 0.9, "delay": 0 }
