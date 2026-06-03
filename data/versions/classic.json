@@ -5,7 +5,7 @@
     "primaryColor": "#4a3728",
     "textColor": "#550000",
     "accentColor": "#c9a84c",
-    "fontHeading": "var(--font-playfair), Georgia, serif",
+    "fontHeading": "var(--font-alex-brush), cursive",
     "fontBody": "var(--font-garamond), Georgia, serif",
     "overlay": "none"
   },
