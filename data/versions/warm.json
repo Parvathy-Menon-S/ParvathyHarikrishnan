@@ -20,6 +20,16 @@
       "/backgrounds/warm_desktop.png",
       "/backgrounds/warm-finale.png"
     ],
+    "mobile": [
+       "/backgrounds/henna-watermark.jpg",
+      "/backgrounds/henna-watermark.jpg",
+      "/backgrounds/warm_mobile.png",
+      "/backgrounds/warm_mobile.png",
+      "/backgrounds/warm_mobile.png",
+      "/backgrounds/warm_mobile.png",
+      "/backgrounds/warm_mobile.png",
+      "/backgrounds/warm_mobile_finale.png"
+    ],
     "desktopFit": "cover",
     "desktopPosition": "center",
     "backgroundColor": "#d6dfe8"
